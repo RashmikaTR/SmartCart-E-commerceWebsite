@@ -1,6 +1,6 @@
 # 🛒 SmartCart
 
-![SmartCart Banner](https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80) *(Placeholder representation for a premium tech product)*
+![SmartCart Banner](./banner.png)
 
 **SmartCart** is a modern, beautifully designed e-commerce platform built with React and Tailwind CSS. Featuring a premium "glassmorphic" user interface, seamless animations, and a responsive layout, SmartCart redefines the digital shopping experience. 
 
