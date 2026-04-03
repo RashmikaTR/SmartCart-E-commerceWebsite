@@ -1,7 +1,5 @@
 # 🛒 SmartCart
 
-![SmartCart Banner](./banner.png)
-
 **SmartCart** is a modern, beautifully designed e-commerce platform built with React and Tailwind CSS. Featuring a premium "glassmorphic" user interface, seamless animations, and a responsive layout, SmartCart redefines the digital shopping experience. 
 
 Recently updated to provide localized context for the **Sri Lankan market**, the application includes region-specific currency formatting, realistic local pricing, and accurate VAT calculations.
